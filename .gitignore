@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+
+# SQLite Database
+bookmarks.db
+bookmarks.lock
+
+# Log Files
+*.log
+
+# Virtual Environment
+venv/
